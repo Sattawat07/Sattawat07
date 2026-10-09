@@ -1,7 +1,5 @@
 # Hi, I'm Sattawat Boontem (Pite) 👋
 
----
-
 ## 🚀 About Me
 
 * 🏛️ **KMUTT:** Studying Applied Computer Science at King Mongkut's University of Technology Thonburi.
