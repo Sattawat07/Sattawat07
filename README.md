@@ -2,9 +2,10 @@
 
 ## 🚀 About Me
 
-* 🏛️ **KMUTT:** Studying Applied Computer Science at King Mongkut's University of Technology Thonburi.
-* 💻 **42 Bangkok:** Cadet Batch #9 (KMITL campus).
-* 🌐 **Community:** Academic Team at Google Developer Groups on Campus KMUTT (GDGoC KMUTT).
+- 🏛️ **KMUTT:** Studying Applied Computer Science at King Mongkut's University of Technology Thonburi.
+- 💻 **42 Bangkok:** Cadet Batch #9 (KMITL campus).
+- 🌐 **Community:** Academic Team at Google Developer Groups on Campus KMUTT (GDGoC KMUTT).
+- 📧 **Email:** boontem.sprite07@gmail.com
 
 ---
 
@@ -35,9 +36,6 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:boontem.sprite07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/sattawat-boontem-315bb2433" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
