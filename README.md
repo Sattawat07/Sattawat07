@@ -41,8 +41,17 @@
 ## 📬 Connect with Me
 
 <p align="left">
+  <a href="mailto:boontem.sprite07@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/sattawat-boontem-315bb2433" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pppitepite/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/spirite.sattawat?locale=th_TH" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://discord.com/users/pppp_1506" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logoColor=white" />
