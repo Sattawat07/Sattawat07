@@ -1,9 +1,5 @@
 # Hi, I'm Sattawat Boontem (Pite) 👋
 
-<p align="center">
-  <em>Applied Computer Science Student @ KMUTT | Cadet Batch #9 @ 42 Bangkok</em>
-</p>
-
 ---
 
 ## 🚀 About Me
